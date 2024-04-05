@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/Sasivarnasarma/Sasivarnasarma/main/assets/border.png" align="center" alt="---" />
 
-[![Sasivarnasarma](https://readme-typing-svg.herokuapp.com?color=56e8e8&width=500&duration=4300&pause=8000&vCenter=true&lines=%3E+Hi+%F0%9F%91%8B%2C+Everyone...&hearts;++;%3E+I'm+Sasivarnasarma.;%3E+A+Self-taught+Developer+From+Sri+lanka.)](https://github.com/Sasivarnasarma)
+[![Sasivarnasarma](https://readme-typing-svg.herokuapp.com?color=56e8e8&width=500&duration=4300&pause=800&vCenter=true&lines=%3E+Hi+%F0%9F%91%8B%2C+Everyone...&hearts;++;%3E+I'm+Sasivarnasarma.;%3E+A+Self-taught+Developer+From+Sri+lanka.)](https://github.com/Sasivarnasarma)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sasivarnasarma&label=Profile%20Views&color=829bab&style=plastic" alt="Profile Views" /> </p>
 
